@@ -1,0 +1,23 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @user.name %>
+</p>
+<p>
+  <strong>Avatar:</strong>
+  <%= image_tag @user.avatar_url(style: :medium) %>
+</p>
+
+<p>
+  <strong>Avatar URL:</strong>
+  <ul>
+    <li><%= @user.avatar_url %></li>
+    <li><%= @user.avatar_url(style: :tiny) %></li>
+    <li><%= @user.avatar_url(style: :small) %></li>
+    <li><%= @user.avatar_url(style: :medium) %></li>
+  </ul>
+</p>
+
+<%= link_to 'Edit', edit_user_path(@user) %> |
+<%= link_to 'Back', users_path %>
