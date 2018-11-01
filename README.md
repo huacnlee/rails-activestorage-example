@@ -15,6 +15,15 @@ So, how can we do?
 
 This project will show you the right way to use Active Storage (`:disk` service) for the `public ACL`.
 
+<img width="239" alt="2018-11-01 5 00 52" src="https://user-images.githubusercontent.com/5518/47842749-94a0e380-ddf8-11e8-957d-80cf83da7b2e.png">
+
+<img width="409" alt="2018-11-01 5 00 57" src="https://user-images.githubusercontent.com/5518/47842765-9cf91e80-ddf8-11e8-8ebd-31df0519f1d8.png">
+
+<img width="285" alt="2018-11-01 5 00 39" src="https://user-images.githubusercontent.com/5518/47842773-a2eeff80-ddf8-11e8-8db0-a6540d3cede3.png">
+
+<img width="389" alt="2018-11-01 5 00 33" src="https://user-images.githubusercontent.com/5518/47842784-a8e4e080-ddf8-11e8-9220-b3722c5b9fc4.png">
+
+
 ## Getting started
 
 ```bash
